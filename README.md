@@ -5,3 +5,4 @@
 - 🔭 I’m currently working on Swift
 - 🌱 I’m currently learning SwiftUIkit and SwiftUI
 - 💬 Ask me about Swift
+- Skills: Swift Css Html
