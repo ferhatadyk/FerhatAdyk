@@ -7,4 +7,4 @@
 - 💬 Ask me about Swift
 - Skills: Swift Css Html
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatadyk&show_icons=true&theme=dark&hide_border=true&locale=en" alt="" /></p>  
+/* <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatadyk&show_icons=true&theme=dark&hide_border=true&locale=en" alt="" /></p>  *\
